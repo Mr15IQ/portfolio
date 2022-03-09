@@ -5,10 +5,11 @@ function Button({ children, large }) {
   return (
     <>
       <style jsx>{styles}</style>
-      <button className={large ? "large" : "small"}>{children}</button>
+      <button className={large ? 'large' : 'small'}>{children}</button>
     </>
   );
 }
+
 
 const styles = css`
   button {

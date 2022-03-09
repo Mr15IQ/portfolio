@@ -1,14 +1,16 @@
+
 import React from "react";
 import css from "styled-jsx/css";
 
-function Button({ children, large }) {
+function Button({ children, large, link }) {
   return (
     <>
       <style jsx>{styles}</style>
-      <button className={large ? "large" : "small"}>{children}</button>
+   <a href={link}>   <button className={large ? 'large' : 'small'}>{children}</button> </a>
     </>
   );
 }
+
 
 const styles = css`
   button {

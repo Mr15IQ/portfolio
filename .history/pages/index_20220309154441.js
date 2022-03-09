@@ -22,7 +22,7 @@ function Home() {
           title="Pre-built DNA65"
           text="for sale! 110$ and its *plateless*"
           buttonText="learn more"
-          buttonLink="/DNA65"
+          buttonLink=""
         />
         <Card
           image="/face.png"
