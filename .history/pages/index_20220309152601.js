@@ -1,4 +1,4 @@
-import Hero from "../components/hero/Hero";
+import Hero from "../components/hero/hero";
 import Layout from "../components/layout/Layout";
 import Card from "../components/cards/Card";
 import SectionBreak from "../components/sectonbreak/SectionBreak";

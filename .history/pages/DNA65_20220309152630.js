@@ -18,15 +18,15 @@ function DNA65() {
       <SectionBreak />
       <h1>
         If you have any questions or are interested in buying, click the Discord
-        server link below and DM the user "Bluetode".
-      </h1>
-      <h1>Or fill out the form and get into contact! (scroll down)</h1>
+        server link below and DM the user "Bluetode". 
+        </h1>
+        <h1>Or fill out the form and get into contact! (scroll down)</h1>
       <Hero
         buttonText="Discord Server"
         buttonLink="https://discord.gg/GRjnvSXS8G"
         bgImage="/boxTopsCopy.png"
       />
-      <SectionBreak />
+       <SectionBreak />
       <h1>Contact me</h1>
       <ContactForm />
     </Layout>
